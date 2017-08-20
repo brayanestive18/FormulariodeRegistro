@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Formulario de Registro</string>
+    <string name="loggin">Usuario:</string>
+    <string name="cLoggin">Ingrese Usuario</string>
+    <string name="pass1">Contraseña:</string>
+    <string name="cPass1">Ingrese Contraseña</string>
+    <string name="pass2">Repetir Contrseña:</string>
+    <string name="cPass2">Repetir Contraseña</string>
+    <string name="email">Correo Electronico:</string>
+    <string name="cEmail">Ingrese Correo Electronico</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="date">Fecha de Nacimiento:</string>
+    <string name="cDate">Fecha</string>
+    <string name="city">Ciudad de Nacimiento:</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="jugar">Jugar</string>
+    <string name="bailar">Bailar</string>
+    <string name="cocinar">Cocinar</string>
+    <string name="leer">Leer</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="info">Información</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Bello</item>
+        <item>Sabaneta</item>
+        <item>Caldas</item>
+        <item>Itagui</item>
+        <item>Envigado</item>
+        <item>Copacabana</item>
+        <item>Bogotá</item>
+        <item>Pasto</item>
+        <item>Cucuta</item>
+        <item>Santa Marta</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+        <item>Sincelejos</item>
+        <item>Manizales</item>
+        <item>Pereira</item>
+        <item>San Andres</item>
+        <item>Leticia</item>
+        <item>Cali</item>
+        <item>Tunja</item>
+        <item>Riohacha</item>
+    </string-array>
+</resources>
